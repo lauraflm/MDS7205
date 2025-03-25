@@ -1,0 +1,24 @@
+@base <http://lmaldonado.cl> .
+
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix esq: <http://example.org/lmaldonado#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+esq:Estudiante rdfs:subClassOf foaf:Person .
+
+
+esq:estudiaEn a rdfs:Property ;
+    rdfs:domain esq:Estudiante ;
+    rdfs:range <http://www.wikidata.org/entity/Q232141> .
+
+
+<#laula> a esq:Estudiante ;
+    foaf:name "Laura Maldonado" ;
+    foaf:firstName "Laura Florencia" ;
+    foaf:lastName "Maldonado Lagos" ;
+    foaf:mbox <mailto:laura.maldonado@ug.uchile.cl> ;
+    foaf:img <https://preview.redd.it/the-my-melody-anime-is-so-peak-v0-zgwoegg9l8dc1.png?width=2420&format=png&auto=webp&s=325e420187bbed8f4c433b14097588d96f322522> ;
+    foaf:knows <http://example.org/MarceloPalma.ttl> ;
+    foaf:knows <http://caronunez.cl> ;
+    esq:estudiaEn <http://www.wikidata.org/entity/Q232141> ;
+    foaf:account <https://github.com/lauraflm> .
