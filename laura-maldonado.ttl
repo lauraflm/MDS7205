@@ -21,4 +21,7 @@ esq:estudiaEn a rdfs:Property ;
     foaf:knows <http://example.org/MarceloPalma.ttl> ;
     foaf:knows <http://caronunez.cl> ;
     esq:estudiaEn <http://www.wikidata.org/entity/Q232141> ;
-    foaf:account <https://github.com/lauraflm> .
+    foaf:account [
+    a foaf:OnlineAccount ;
+    foaf:accountName "@lauraflm" ;
+    foaf:accountServiceHomepage <https://github.com>] .
