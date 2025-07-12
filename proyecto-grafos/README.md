@@ -44,7 +44,6 @@ Se utilizó el dataset **[250k Medicines Usage, Side Effects and Substitutes](ht
 3. Aplicar modelos de Machine Learning para predicción de propiedades.
 4. Encontrar alternativas terapéuticas más seguras a través de similitud topológica.
 
----
 
 ##  Ideas a Futuro
 
@@ -52,7 +51,6 @@ Se utilizó el dataset **[250k Medicines Usage, Side Effects and Substitutes](ht
 - Incorporar nuevas fuentes de datos (interacciones, contraindicaciones).
 - Desarrollar una interfaz de búsqueda médica basada en grafos para estudiantes y doctores.
 
----
 
 ##  Tecnologías
 
