@@ -1,0 +1,461 @@
+--- Cluster -1 ---
+Total de elementos: 3792
+Clases terapéuticas únicas (22): ['ANTI INFECTIVES', 'RESPIRATORY', 'GASTRO INTESTINAL', 'DERMA', 'CARDIAC', 'NEURO CNS', 'PAIN ANALGESICS', 'BLOOD RELATED', 'UROLOGY', 'VITAMINS MINERALS NUTRIENTS', 'GYNAECOLOGICAL', 'OPHTHAL', 'ANTI NEOPLASTICS', 'VACCINES', 'ANTI DIABETIC', 'SEX STIMULANTS REJUVENATORS', 'OPHTHAL OTOLOGICALS', 'OTHERS', 'STOMATOLOGICALS', 'HORMONES', 'OTOLOGICALS', 'ANTI MALARIALS']
+
+Frecuencia de clases terapéuticas:
+label
+RESPIRATORY                    616
+ANTI INFECTIVES                610
+CARDIAC                        482
+NEURO CNS                      406
+PAIN ANALGESICS                391
+GASTRO INTESTINAL              281
+DERMA                          195
+OPHTHAL                        172
+ANTI DIABETIC                  117
+VITAMINS MINERALS NUTRIENTS    112
+UROLOGY                         91
+ANTI NEOPLASTICS                86
+BLOOD RELATED                   60
+GYNAECOLOGICAL                  45
+HORMONES                        37
+SEX STIMULANTS REJUVENATORS     28
+OTHERS                          16
+OPHTHAL OTOLOGICALS             11
+VACCINES                        10
+OTOLOGICALS                     10
+ANTI MALARIALS                  10
+STOMATOLOGICALS                  3
+
+Primeros 10 elementos:
+ node_id                          nombre             label                           Action_class
+       1             azithral 500 tablet   ANTI INFECTIVES                             Macrolides
+       2                ascoril ls syrup       RESPIRATORY                                    NaN
+       3            allegra 120mg tablet       RESPIRATORY H1 Antihistaminics (second Generation)
+       4                  avil 25 tablet       RESPIRATORY  H1 Antihistaminics (First Generation)
+       5                allegra-m tablet       RESPIRATORY                                    NaN
+       7                 azee 500 tablet   ANTI INFECTIVES                             Macrolides
+       8              atarax 25mg tablet       RESPIRATORY  H1 Antihistaminics (First Generation)
+       9 ascoril d plus syrup sugar free       RESPIRATORY                                    NaN
+      10               aciloc 150 tablet GASTRO INTESTINAL                    H2 Receptor Blocker
+      11                      alex syrup       RESPIRATORY                                    NaN
+
+--------------------------------------------------
+
+--- Cluster 0 ---
+Total de elementos: 60
+Clases terapéuticas únicas (1): ['CARDIAC']
+
+Frecuencia de clases terapéuticas:
+label
+CARDIAC    60
+
+Primeros 10 elementos:
+ node_id              nombre   label                                     Action_class
+      64   amlokind 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+      65       amlong tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+      94      amlip 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     130    amlovas 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     152    amlodac 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     219      amtas 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     243   amlopres 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     265   amlosafe 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     267 amlogard 5mg tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     309    amlopin 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+
+--------------------------------------------------
+
+--- Cluster 1 ---
+Total de elementos: 48
+Clases terapéuticas únicas (1): ['CARDIAC']
+
+Frecuencia de clases terapéuticas:
+label
+CARDIAC    48
+
+Primeros 10 elementos:
+ node_id                nombre   label Action_class
+      32    amlokind-at tablet CARDIAC          NaN
+     121    amlopres-at tablet CARDIAC          NaN
+     156       amlip at tablet CARDIAC          NaN
+     179     amlovas-at tablet CARDIAC          NaN
+     251       amlong-a tablet CARDIAC          NaN
+     261    amlosafe-at tablet CARDIAC          NaN
+     273   angicam-beta tablet CARDIAC          NaN
+     369       amtas-at tablet CARDIAC          NaN
+     380      amodep at tablet CARDIAC          NaN
+     381 amlopres at 25 tablet CARDIAC          NaN
+
+--------------------------------------------------
+
+--- Cluster 2 ---
+Total de elementos: 40
+Clases terapéuticas únicas (2): ['DERMA', 'ANTI INFECTIVES']
+
+Frecuencia de clases terapéuticas:
+label
+DERMA              39
+ANTI INFECTIVES     1
+
+Primeros 10 elementos:
+ node_id              nombre label Action_class
+     240 adalene nanogel gel DERMA          NaN
+     474        adaple-c gel DERMA          NaN
+     478     alight plus gel DERMA          NaN
+     498        acnovate gel DERMA          NaN
+     555      acnetor ad gel DERMA          NaN
+     995          anaero gel DERMA          NaN
+    1120        aditop c gel DERMA          NaN
+    1268           acnay gel DERMA          NaN
+    1393    aloclin plus gel DERMA          NaN
+    1396            a-cn gel DERMA          NaN
+
+--------------------------------------------------
+
+--- Cluster 3 ---
+Total de elementos: 60
+Clases terapéuticas únicas (1): ['ANTI INFECTIVES']
+
+Frecuencia de clases terapéuticas:
+label
+ANTI INFECTIVES    60
+
+Primeros 10 elementos:
+ node_id                          nombre           label Action_class
+       0        augmentin 625 duo tablet ANTI INFECTIVES          NaN
+       6            amoxyclav 625 tablet ANTI INFECTIVES          NaN
+     186             almox-cv 625 tablet ANTI INFECTIVES          NaN
+     203               advent 625 tablet ANTI INFECTIVES          NaN
+     296           augpen 625 bid tablet ANTI INFECTIVES          NaN
+     483   amoxclav 500 mg/125 mg tablet ANTI INFECTIVES          NaN
+     668          amoxible-cl 625 tablet ANTI INFECTIVES          NaN
+     682 ampilox cv 500 mg/125 mg tablet ANTI INFECTIVES          NaN
+     784   ampoxin-cv 500mg/125mg tablet ANTI INFECTIVES          NaN
+     870              amclaid 625 tablet ANTI INFECTIVES          NaN
+
+--------------------------------------------------
+
+--- Cluster 4 ---
+Total de elementos: 69
+Clases terapéuticas únicas (1): ['PAIN ANALGESICS']
+
+Frecuencia de clases terapéuticas:
+label
+PAIN ANALGESICS    69
+
+Primeros 10 elementos:
+ node_id                           nombre           label Action_class
+     376                  akilos-p tablet PAIN ANALGESICS          NaN
+     653   aceclowal p 100mg/500mg tablet PAIN ANALGESICS          NaN
+    1040   aceclodol p 100mg/500mg tablet PAIN ANALGESICS          NaN
+    1073    acedol p 100 mg/500 mg tablet PAIN ANALGESICS          NaN
+    1128       aclopar 100mg/500mg tablet PAIN ANALGESICS          NaN
+    1233       algin 100 mg/500 mg tablet PAIN ANALGESICS          NaN
+    1394   algesia p 100 mg/500 mg tablet PAIN ANALGESICS          NaN
+    1478                  aceden-p tablet PAIN ANALGESICS          NaN
+    1531     aclonac p 100mg/500mg tablet PAIN ANALGESICS          NaN
+    1566 afenak plus 100 mg/500 mg tablet PAIN ANALGESICS          NaN
+
+--------------------------------------------------
+
+--- Cluster 5 ---
+Total de elementos: 124
+Clases terapéuticas únicas (1): ['ANTI INFECTIVES']
+
+Frecuencia de clases terapéuticas:
+label
+ANTI INFECTIVES    124
+
+Primeros 10 elementos:
+ node_id               nombre           label Action_class
+      77      azax 500 tablet ANTI INFECTIVES   Macrolides
+     128  azikem 500mg tablet ANTI INFECTIVES   Macrolides
+     260    azimax 500 tablet ANTI INFECTIVES   Macrolides
+     353   azivent 500 tablet ANTI INFECTIVES   Macrolides
+     454 azibest 500mg tablet ANTI INFECTIVES   Macrolides
+     548    azipro 500 tablet ANTI INFECTIVES   Macrolides
+     600  azilab 500mg tablet ANTI INFECTIVES   Macrolides
+     672  agycin 500mg tablet ANTI INFECTIVES   Macrolides
+     697     azi 500mg tablet ANTI INFECTIVES   Macrolides
+     705 azikind 500mg tablet ANTI INFECTIVES   Macrolides
+
+--------------------------------------------------
+
+--- Cluster 6 ---
+Total de elementos: 60
+Clases terapéuticas únicas (1): ['ANTI INFECTIVES']
+
+Frecuencia de clases terapéuticas:
+label
+ANTI INFECTIVES    60
+
+Primeros 10 elementos:
+ node_id               nombre           label Action_class
+    2430   azith 500mg tablet ANTI INFECTIVES   Macrolides
+    2458  azicin 500mg tablet ANTI INFECTIVES   Macrolides
+    2520  azobat 500mg tablet ANTI INFECTIVES   Macrolides
+    2590  azilet 500mg tablet ANTI INFECTIVES   Macrolides
+    2694     azo 500mg tablet ANTI INFECTIVES   Macrolides
+    2791    azijet 500 tablet ANTI INFECTIVES   Macrolides
+    2805  azinet 500mg tablet ANTI INFECTIVES   Macrolides
+    2873 azispan 500mg tablet ANTI INFECTIVES   Macrolides
+    2953  aziter 500mg tablet ANTI INFECTIVES   Macrolides
+    2993 azizoom 500mg tablet ANTI INFECTIVES   Macrolides
+
+--------------------------------------------------
+
+--- Cluster 7 ---
+Total de elementos: 40
+Clases terapéuticas únicas (1): ['PAIN ANALGESICS']
+
+Frecuencia de clases terapéuticas:
+label
+PAIN ANALGESICS    40
+
+Primeros 10 elementos:
+ node_id                                nombre           label Action_class
+     343                      arflur 3d tablet PAIN ANALGESICS          NaN
+     476                      akilos-sp tablet PAIN ANALGESICS          NaN
+     604                      acefen sp tablet PAIN ANALGESICS          NaN
+     666                    acekay sera tablet PAIN ANALGESICS          NaN
+     847                       aclon-sp tablet PAIN ANALGESICS          NaN
+    1017 acenext sp 100 mg/500 mg/15 mg tablet PAIN ANALGESICS          NaN
+    1209                            aps tablet PAIN ANALGESICS          NaN
+    1527                      aceta sp  tablet PAIN ANALGESICS          NaN
+    1622                      aceflam s tablet PAIN ANALGESICS          NaN
+    1716                     acent plus tablet PAIN ANALGESICS          NaN
+
+--------------------------------------------------
+
+--- Cluster 8 ---
+Total de elementos: 36
+Clases terapéuticas únicas (1): ['PAIN ANALGESICS']
+
+Frecuencia de clases terapéuticas:
+label
+PAIN ANALGESICS    36
+
+Primeros 10 elementos:
+ node_id                                 nombre           label Action_class
+      47                    aldigesic-sp tablet PAIN ANALGESICS          NaN
+     379                   acceclowoc-sp tablet PAIN ANALGESICS          NaN
+     982                    aceclomax-sp tablet PAIN ANALGESICS          NaN
+    1014                          ace-sp tablet PAIN ANALGESICS          NaN
+    1077     aclopar sp 100mg/325mg/10mg tablet PAIN ANALGESICS          NaN
+    1133    alcecost sp 100mg/325mg/10mg tablet PAIN ANALGESICS          NaN
+    1202     acefile sp 100mg/325mg/10mg tablet PAIN ANALGESICS          NaN
+    1315 asozen sr plus 100mg/325mg/10mg tablet PAIN ANALGESICS          NaN
+    1855                       acepep sp tablet PAIN ANALGESICS          NaN
+    2037   acecloran sp 100mg/325mg/10mg tablet PAIN ANALGESICS          NaN
+
+--------------------------------------------------
+
+--- Cluster 9 ---
+Total de elementos: 31
+Clases terapéuticas únicas (2): ['NEURO CNS', 'RESPIRATORY']
+
+Frecuencia de clases terapéuticas:
+label
+NEURO CNS      30
+RESPIRATORY     1
+
+Primeros 10 elementos:
+ node_id             nombre     label            Action_class
+     222   arip mt 5 tablet NEURO CNS Atypical Antipsychotics
+     319  arip mt 10 tablet NEURO CNS Atypical Antipsychotics
+     347 arpizol 2mg tablet NEURO CNS Atypical Antipsychotics
+     419   arip mt 2 tablet NEURO CNS Atypical Antipsychotics
+     506   asprito 2 tablet NEURO CNS Atypical Antipsychotics
+     811   asprito 5 tablet NEURO CNS Atypical Antipsychotics
+     963  asprito 10 tablet NEURO CNS Atypical Antipsychotics
+     981    arip 5mg tablet NEURO CNS Atypical Antipsychotics
+    1298 arifine 5mg tablet NEURO CNS Atypical Antipsychotics
+    1377  arpizol 20 tablet NEURO CNS Atypical Antipsychotics
+
+--------------------------------------------------
+
+--- Cluster 10 ---
+Total de elementos: 62
+Clases terapéuticas únicas (1): ['NEURO CNS']
+
+Frecuencia de clases terapéuticas:
+label
+NEURO CNS    62
+
+Primeros 10 elementos:
+ node_id                        nombre     label              Action_class
+      68           amitone 10mg tablet NEURO CNS Tricyclic antidepressants
+     303           amitone 25mg tablet NEURO CNS Tricyclic antidepressants
+     324              amitop 10 tablet NEURO CNS Tricyclic antidepressants
+     368             amitryn 10 tablet NEURO CNS Tricyclic antidepressants
+     422              amicon 10 tablet NEURO CNS Tricyclic antidepressants
+     468 amitriptyline hcl 25mg tablet NEURO CNS Tricyclic antidepressants
+     575          antiblue 10mg tablet NEURO CNS Tricyclic antidepressants
+     692             amitryn 25 tablet NEURO CNS Tricyclic antidepressants
+     840               aldep 10 tablet NEURO CNS Tricyclic antidepressants
+     872           amiline 10mg tablet NEURO CNS Tricyclic antidepressants
+
+--------------------------------------------------
+
+--- Cluster 11 ---
+Total de elementos: 53
+Clases terapéuticas únicas (1): ['ANTI INFECTIVES']
+
+Frecuencia de clases terapéuticas:
+label
+ANTI INFECTIVES    53
+
+Primeros 10 elementos:
+ node_id               nombre           label Action_class
+      99      azee 250 tablet ANTI INFECTIVES   Macrolides
+     259 azithro 250mg tablet ANTI INFECTIVES   Macrolides
+     278    azicip 250 tablet ANTI INFECTIVES   Macrolides
+     314      azax 250 tablet ANTI INFECTIVES   Macrolides
+     472       atm 250 tablet ANTI INFECTIVES   Macrolides
+     545  azikem 250mg tablet ANTI INFECTIVES   Macrolides
+     565    azimax 250 tablet ANTI INFECTIVES   Macrolides
+     572    aziwok 250 tablet ANTI INFECTIVES   Macrolides
+     577      azithral tablet ANTI INFECTIVES   Macrolides
+     582   azibact 250 tablet ANTI INFECTIVES   Macrolides
+
+--------------------------------------------------
+
+--- Cluster 12 ---
+Total de elementos: 32
+Clases terapéuticas únicas (1): ['VITAMINS MINERALS NUTRIENTS']
+
+Frecuencia de clases terapéuticas:
+label
+VITAMINS MINERALS NUTRIENTS    32
+
+Primeros 10 elementos:
+ node_id             nombre                       label Action_class
+     786       app up syrup VITAMINS MINERALS NUTRIENTS          NaN
+    1135 apitone plus syrup VITAMINS MINERALS NUTRIENTS          NaN
+    1558      apticyp syrup VITAMINS MINERALS NUTRIENTS          NaN
+    1921       apitop syrup VITAMINS MINERALS NUTRIENTS          NaN
+    2098        appet syrup VITAMINS MINERALS NUTRIENTS          NaN
+    2099     aptiwell syrup VITAMINS MINERALS NUTRIENTS          NaN
+    2132     apetizer syrup VITAMINS MINERALS NUTRIENTS          NaN
+    2272      appiliv syrup VITAMINS MINERALS NUTRIENTS          NaN
+    2368      aptsure syrup VITAMINS MINERALS NUTRIENTS          NaN
+    2408      apetone syrup VITAMINS MINERALS NUTRIENTS          NaN
+
+--------------------------------------------------
+
+--- Cluster 13 ---
+Total de elementos: 50
+Clases terapéuticas únicas (1): ['CARDIAC']
+
+Frecuencia de clases terapéuticas:
+label
+CARDIAC    50
+
+Primeros 10 elementos:
+ node_id               nombre   label                 Action_class
+      57        atorva tablet CARDIAC HMG CoA inhibitors (statins)
+      75      aztor 10 tablet CARDIAC HMG CoA inhibitors (statins)
+     228    atorlip 10 tablet CARDIAC HMG CoA inhibitors (statins)
+     362     atchol 10 tablet CARDIAC HMG CoA inhibitors (statins)
+     589    atorfit 10 tablet CARDIAC HMG CoA inhibitors (statins)
+     914 atherochek 10 tablet CARDIAC                          NaN
+     930     atorec 10 tablet CARDIAC HMG CoA inhibitors (statins)
+     969   atorbest 10 tablet CARDIAC HMG CoA inhibitors (statins)
+    1006  atrovas 10mg tablet CARDIAC HMG CoA inhibitors (statins)
+    1218    atrolet 10 tablet CARDIAC HMG CoA inhibitors (statins)
+
+--------------------------------------------------
+
+--- Cluster 14 ---
+Total de elementos: 35
+Clases terapéuticas únicas (1): ['CARDIAC']
+
+Frecuencia de clases terapéuticas:
+label
+CARDIAC    35
+
+Primeros 10 elementos:
+ node_id              nombre   label                 Action_class
+     138    atorva 20 tablet CARDIAC HMG CoA inhibitors (statins)
+     215     aztor 20 tablet CARDIAC HMG CoA inhibitors (statins)
+     437   atorlip 20 tablet CARDIAC HMG CoA inhibitors (statins)
+     453    atchol 20 tablet CARDIAC HMG CoA inhibitors (statins)
+     514      avas 20 tablet CARDIAC HMG CoA inhibitors (statins)
+     691    atocor 20 tablet CARDIAC HMG CoA inhibitors (statins)
+    1212 atrovas 20mg tablet CARDIAC HMG CoA inhibitors (statins)
+    1244   atormac 20 tablet CARDIAC HMG CoA inhibitors (statins)
+    1265   atorfit 20 tablet CARDIAC HMG CoA inhibitors (statins)
+    1450    atorec 20 tablet CARDIAC HMG CoA inhibitors (statins)
+
+--------------------------------------------------
+
+--- Cluster 15 ---
+Total de elementos: 97
+Clases terapéuticas únicas (1): ['RESPIRATORY']
+
+Frecuencia de clases terapéuticas:
+label
+RESPIRATORY    97
+
+Primeros 10 elementos:
+ node_id                  nombre       label                           Action_class
+     269        alergin l tablet RESPIRATORY H1 Antihistaminics (second Generation)
+     292       allercet-m tablet RESPIRATORY                                    NaN
+     420        alcet 5mg tablet RESPIRATORY H1 Antihistaminics (second Generation)
+     504         akair lc tablet RESPIRATORY                                    NaN
+     563         alzero m tablet RESPIRATORY                                    NaN
+     700     allerkast lc tablet RESPIRATORY                                    NaN
+     733       allercet-l tablet RESPIRATORY H1 Antihistaminics (second Generation)
+     971        aleva 5mg tablet RESPIRATORY H1 Antihistaminics (second Generation)
+     979          alerfix tablet RESPIRATORY H1 Antihistaminics (second Generation)
+     996 aplev m 5mg/10mg tablet RESPIRATORY                                    NaN
+
+--------------------------------------------------
+
+--- Cluster 16 ---
+Total de elementos: 184
+Clases terapéuticas únicas (3): ['PAIN ANALGESICS', 'RESPIRATORY', 'ANTI INFECTIVES']
+
+Frecuencia de clases terapéuticas:
+label
+PAIN ANALGESICS    182
+RESPIRATORY          1
+ANTI INFECTIVES      1
+
+Primeros 10 elementos:
+ node_id                         nombre           label Action_class
+      36 aldigesic p 100mg/325mg tablet PAIN ANALGESICS          NaN
+      50             acemiz plus tablet PAIN ANALGESICS          NaN
+      51             aceclo plus tablet PAIN ANALGESICS          NaN
+      84              acemiz -mr tablet PAIN ANALGESICS          NaN
+     102               acenac-p  tablet PAIN ANALGESICS          NaN
+     111            ace proxyvon tablet PAIN ANALGESICS          NaN
+     395   aceflam p 100mg/325mg tablet PAIN ANALGESICS          NaN
+     442            acceclowoc-p tablet PAIN ANALGESICS          NaN
+     492    acimol 100 mg/325 mg tablet PAIN ANALGESICS          NaN
+     516                arflur-p tablet PAIN ANALGESICS          NaN
+
+--------------------------------------------------
+
+--- Cluster 17 ---
+Total de elementos: 127
+Clases terapéuticas únicas (1): ['PAIN ANALGESICS']
+
+Frecuencia de clases terapéuticas:
+label
+PAIN ANALGESICS    127
+
+Primeros 10 elementos:
+ node_id                                nombre           label Action_class
+     116                       acemiz-s tablet PAIN ANALGESICS          NaN
+     415     acenac sp 100mg/325mg/15mg tablet PAIN ANALGESICS          NaN
+     554  acimol forte 100mg/325mg/15mg tablet PAIN ANALGESICS          NaN
+     635                      acecloren tablet PAIN ANALGESICS          NaN
+     763                ace-proxyvon sp tablet PAIN ANALGESICS          NaN
+     987                   anaflam xps  tablet PAIN ANALGESICS          NaN
+    1063     acepar sp 100mg/325mg/15mg tablet PAIN ANALGESICS          NaN
+    1328 alcinac forte 100mg/325mg/15mg tablet PAIN ANALGESICS          NaN
+    1413                      acer plus tablet PAIN ANALGESICS          NaN
+    1444                       aspen sp tablet PAIN ANALGESICS          NaN
+
+--------------------------------------------------

@@ -1,0 +1,363 @@
+--- Cluster 0 ---
+Total de elementos: 2
+Clases terapéuticas únicas (1): ['ANTI INFECTIVES']
+
+Frecuencia de clases terapéuticas:
+label
+ANTI INFECTIVES    2
+
+Primeros 10 elementos:
+ node_id                         nombre           label Action_class
+    1042                 abd plus syrup ANTI INFECTIVES          NaN
+    1343 abendol plus 12mg/400mg tablet ANTI INFECTIVES          NaN
+
+--------------------------------------------------
+
+--- Cluster 1 ---
+Total de elementos: 451
+Clases terapéuticas únicas (1): ['PAIN ANALGESICS']
+
+Frecuencia de clases terapéuticas:
+label
+PAIN ANALGESICS    451
+
+Primeros 10 elementos:
+ node_id                         nombre           label                                            Action_class
+      36 aldigesic p 100mg/325mg tablet PAIN ANALGESICS                                                     NaN
+      47            aldigesic-sp tablet PAIN ANALGESICS                                                     NaN
+      50             acemiz plus tablet PAIN ANALGESICS                                                     NaN
+      51             aceclo plus tablet PAIN ANALGESICS                                                     NaN
+     102               acenac-p  tablet PAIN ANALGESICS                                                     NaN
+     111            ace proxyvon tablet PAIN ANALGESICS                                                     NaN
+     116                acemiz-s tablet PAIN ANALGESICS                                                     NaN
+     195   acenext p 100mg/325mg tablet PAIN ANALGESICS                                                     NaN
+     301                  aceclo tablet PAIN ANALGESICS NSAID's- Non-Selective COX 1&2 Inhibitors (acetic acid)
+     343               arflur 3d tablet PAIN ANALGESICS                                                     NaN
+
+--------------------------------------------------
+
+--- Cluster 2 ---
+Total de elementos: 191
+Clases terapéuticas únicas (1): ['ANTI INFECTIVES']
+
+Frecuencia de clases terapéuticas:
+label
+ANTI INFECTIVES    191
+
+Primeros 10 elementos:
+ node_id              nombre           label Action_class
+       1 azithral 500 tablet ANTI INFECTIVES   Macrolides
+       7     azee 500 tablet ANTI INFECTIVES   Macrolides
+      46   azicip 500 tablet ANTI INFECTIVES   Macrolides
+      77     azax 500 tablet ANTI INFECTIVES   Macrolides
+     128 azikem 500mg tablet ANTI INFECTIVES   Macrolides
+     169      atm 500 tablet ANTI INFECTIVES   Macrolides
+     184   aziwok 500 tablet ANTI INFECTIVES   Macrolides
+     211  azibact 500 tablet ANTI INFECTIVES   Macrolides
+     260   azimax 500 tablet ANTI INFECTIVES   Macrolides
+     353  azivent 500 tablet ANTI INFECTIVES   Macrolides
+
+--------------------------------------------------
+
+--- Cluster 3 ---
+Total de elementos: 915
+Clases terapéuticas únicas (18): ['RESPIRATORY', 'ANTI INFECTIVES', 'UROLOGY', 'PAIN ANALGESICS', 'ANTI NEOPLASTICS', 'GASTRO INTESTINAL', 'CARDIAC', 'ANTI DIABETIC', 'NEURO CNS', 'BLOOD RELATED', 'VITAMINS MINERALS NUTRIENTS', 'GYNAECOLOGICAL', 'OPHTHAL', 'OTHERS', 'ANTI MALARIALS', 'DERMA', 'HORMONES', 'VACCINES']
+
+Frecuencia de clases terapéuticas:
+label
+PAIN ANALGESICS                278
+RESPIRATORY                    111
+CARDIAC                         96
+ANTI INFECTIVES                 89
+ANTI DIABETIC                   75
+ANTI NEOPLASTICS                52
+UROLOGY                         49
+GASTRO INTESTINAL               43
+NEURO CNS                       35
+BLOOD RELATED                   27
+OPHTHAL                         14
+GYNAECOLOGICAL                  13
+VITAMINS MINERALS NUTRIENTS     11
+OTHERS                           5
+ANTI MALARIALS                   5
+DERMA                            4
+HORMONES                         4
+VACCINES                         4
+
+Primeros 10 elementos:
+ node_id                          nombre           label                                     Action_class
+       3            allegra 120mg tablet     RESPIRATORY           H1 Antihistaminics (second Generation)
+       9 ascoril d plus syrup sugar free     RESPIRATORY                                              NaN
+      11                      alex syrup     RESPIRATORY                                              NaN
+      17   asthakind-dx syrup sugar free     RESPIRATORY                                              NaN
+      19        albendazole 400mg tablet ANTI INFECTIVES                             Antiprotozoal agents
+      31                    atarax syrup     RESPIRATORY            H1 Antihistaminics (First Generation)
+      35           alkasol oral solution         UROLOGY                            Uricosuric agent-gout
+      37            alfoo 10mg tablet pr         UROLOGY Uroselective adrenergic receptor(α1a) antagonist
+      43             ab phylline capsule     RESPIRATORY                   Theophylline & its derivatives
+      67    ascoril d junior cough syrup     RESPIRATORY                                              NaN
+
+--------------------------------------------------
+
+--- Cluster 4 ---
+Total de elementos: 591
+Clases terapéuticas únicas (14): ['RESPIRATORY', 'CARDIAC', 'NEURO CNS', 'ANTI INFECTIVES', 'PAIN ANALGESICS', 'GASTRO INTESTINAL', 'VITAMINS MINERALS NUTRIENTS', 'OTHERS', 'UROLOGY', 'ANTI NEOPLASTICS', 'ANTI DIABETIC', 'GYNAECOLOGICAL', 'ANTI MALARIALS', 'OPHTHAL']
+
+Frecuencia de clases terapéuticas:
+label
+RESPIRATORY                    272
+NEURO CNS                      227
+CARDIAC                         28
+GASTRO INTESTINAL               18
+PAIN ANALGESICS                 11
+ANTI INFECTIVES                 10
+UROLOGY                          7
+VITAMINS MINERALS NUTRIENTS      5
+ANTI NEOPLASTICS                 5
+OTHERS                           2
+ANTI DIABETIC                    1
+GYNAECOLOGICAL                   1
+ANTI MALARIALS                   1
+OPHTHAL                          1
+
+Primeros 10 elementos:
+ node_id                                 nombre       label                                           Action_class
+       5                       allegra-m tablet RESPIRATORY                                                    NaN
+      15                         arkamin tablet     CARDIAC Alpha 2-adrenoceptors agonist (Central sympatholytics)
+      18                   allegra 180mg tablet RESPIRATORY                 H1 Antihistaminics (second Generation)
+      30 allegra suspension raspberry & vanilla RESPIRATORY                 H1 Antihistaminics (second Generation)
+      68                    amitone 10mg tablet   NEURO CNS                              Tricyclic antidepressants
+      82            angispan - tr 2.5mg capsule     CARDIAC                                              NO Donors
+      83                     azeflo nasal spray RESPIRATORY                                                    NaN
+      91                         ambrodil syrup RESPIRATORY                                             Mucolytics
+     113                       admenta 5 tablet   NEURO CNS                   NMDA inhibitors- Alzheimer's disease
+     115                        alerid-d tablet RESPIRATORY                                                    NaN
+
+--------------------------------------------------
+
+--- Cluster 5 ---
+Total de elementos: 372
+Clases terapéuticas únicas (13): ['RESPIRATORY', 'CARDIAC', 'NEURO CNS', 'VITAMINS MINERALS NUTRIENTS', 'SEX STIMULANTS REJUVENATORS', 'PAIN ANALGESICS', 'GASTRO INTESTINAL', 'ANTI INFECTIVES', 'HORMONES', 'DERMA', 'OPHTHAL', 'ANTI NEOPLASTICS', 'OTHERS']
+
+Frecuencia de clases terapéuticas:
+label
+CARDIAC                        182
+NEURO CNS                      113
+RESPIRATORY                     46
+VITAMINS MINERALS NUTRIENTS      8
+SEX STIMULANTS REJUVENATORS      5
+GASTRO INTESTINAL                5
+OPHTHAL                          4
+PAIN ANALGESICS                  3
+ANTI INFECTIVES                  2
+HORMONES                         1
+DERMA                            1
+ANTI NEOPLASTICS                 1
+OTHERS                           1
+
+Primeros 10 elementos:
+ node_id                           nombre                       label                           Action_class
+      20                   asthalin syrup                 RESPIRATORY               Short acting β2-agonists
+      25          asthalin 100mcg inhaler                 RESPIRATORY               Short acting β2-agonists
+      32               amlokind-at tablet                     CARDIAC                                    NaN
+      53 alex cough lozenges lemon ginger                 RESPIRATORY                     Cough suppressants
+      54                asthalin respules                 RESPIRATORY               Short acting β2-agonists
+      61                 amixide-h tablet                   NEURO CNS                                    NaN
+      89                   aptimust syrup VITAMINS MINERALS NUTRIENTS                                    NaN
+      96                     alerid syrup                 RESPIRATORY H1 Antihistaminics (second Generation)
+     100                    alerid tablet                 RESPIRATORY H1 Antihistaminics (second Generation)
+     121               amlopres-at tablet                     CARDIAC                                    NaN
+
+--------------------------------------------------
+
+--- Cluster 6 ---
+Total de elementos: 152
+Clases terapéuticas únicas (2): ['CARDIAC', 'ANTI DIABETIC']
+
+Frecuencia de clases terapéuticas:
+label
+CARDIAC          149
+ANTI DIABETIC      3
+
+Primeros 10 elementos:
+ node_id            nombre   label                 Action_class
+      57     atorva tablet CARDIAC HMG CoA inhibitors (statins)
+      75   aztor 10 tablet CARDIAC HMG CoA inhibitors (statins)
+      76  atorva 40 tablet CARDIAC HMG CoA inhibitors (statins)
+     138  atorva 20 tablet CARDIAC HMG CoA inhibitors (statins)
+     153   aztor 40 tablet CARDIAC HMG CoA inhibitors (statins)
+     215   aztor 20 tablet CARDIAC HMG CoA inhibitors (statins)
+     228 atorlip 10 tablet CARDIAC HMG CoA inhibitors (statins)
+     281  atorva 80 tablet CARDIAC HMG CoA inhibitors (statins)
+     295  atocor 10 tablet CARDIAC HMG CoA inhibitors (statins)
+     340  atchol 40 tablet CARDIAC HMG CoA inhibitors (statins)
+
+--------------------------------------------------
+
+--- Cluster 7 ---
+Total de elementos: 433
+Clases terapéuticas únicas (11): ['ANTI INFECTIVES', 'CARDIAC', 'UROLOGY', 'DERMA', 'PAIN ANALGESICS', 'GASTRO INTESTINAL', 'ANTI DIABETIC', 'BLOOD RELATED', 'ANTI NEOPLASTICS', 'GYNAECOLOGICAL', 'NEURO CNS']
+
+Frecuencia de clases terapéuticas:
+label
+ANTI INFECTIVES      392
+PAIN ANALGESICS       15
+ANTI DIABETIC          9
+GASTRO INTESTINAL      4
+UROLOGY                4
+BLOOD RELATED          2
+DERMA                  2
+NEURO CNS              2
+CARDIAC                1
+ANTI NEOPLASTICS       1
+GYNAECOLOGICAL         1
+
+Primeros 10 elementos:
+ node_id                        nombre           label                                         Action_class
+       0      augmentin 625 duo tablet ANTI INFECTIVES                                                  NaN
+       6          amoxyclav 625 tablet ANTI INFECTIVES                                                  NaN
+      13 augmentin duo oral suspension ANTI INFECTIVES                                                  NaN
+      26             almox 500 capsule ANTI INFECTIVES Cell wall active agent -Extended spectrum Penicillin
+      29              aldactone tablet         CARDIAC                         Potassium- sparing Diuretics
+      42           azithral 200 liquid ANTI INFECTIVES                                           Macrolides
+      44          althrocin 500 tablet ANTI INFECTIVES                                           Macrolides
+      45      augmentin dds suspension ANTI INFECTIVES                                                  NaN
+      56          azee 200mg dry syrup ANTI INFECTIVES                                           Macrolides
+      90     augmentin 1000 duo tablet ANTI INFECTIVES                                                  NaN
+
+--------------------------------------------------
+
+--- Cluster 8 ---
+Total de elementos: 191
+Clases terapéuticas únicas (6): ['OPHTHAL', 'DERMA', 'NEURO CNS', 'ANTI INFECTIVES', 'ANTI NEOPLASTICS', 'PAIN ANALGESICS']
+
+Frecuencia de clases terapéuticas:
+label
+DERMA               143
+OPHTHAL              21
+PAIN ANALGESICS       8
+NEURO CNS             7
+ANTI INFECTIVES       7
+ANTI NEOPLASTICS      5
+
+Primeros 10 elementos:
+ node_id                            nombre           label                Action_class
+      70 amikacin sulphate 500mg injection         OPHTHAL             Aminoglycosides
+      87                      adaferin gel           DERMA Retinoids- Third generation
+     196                acnesol a nano gel           DERMA                         NaN
+     239                   amrolstar cream           DERMA           Antifungal Others
+     240               adalene nanogel gel           DERMA                         NaN
+     288                 ascabiol emulsion           DERMA                         NaN
+     325                  ambulax m tablet       NEURO CNS                         NaN
+     360            amrolstar nail lacquer           DERMA           Antifungal Others
+     364                acutret 10 capsule           DERMA Retinoids- First generation
+     365                       acnedap gel ANTI INFECTIVES               Anti leprotic
+
+--------------------------------------------------
+
+--- Cluster 9 ---
+Total de elementos: 776
+Clases terapéuticas únicas (19): ['RESPIRATORY', 'GASTRO INTESTINAL', 'PAIN ANALGESICS', 'ANTI INFECTIVES', 'GYNAECOLOGICAL', 'CARDIAC', 'ANTI DIABETIC', 'SEX STIMULANTS REJUVENATORS', 'UROLOGY', 'DERMA', 'BLOOD RELATED', 'NEURO CNS', 'VACCINES', 'OPHTHAL', 'HORMONES', 'VITAMINS MINERALS NUTRIENTS', 'OTHERS', 'ANTI NEOPLASTICS', 'ANTI MALARIALS']
+
+Frecuencia de clases terapéuticas:
+label
+ANTI INFECTIVES                190
+GASTRO INTESTINAL              177
+RESPIRATORY                    163
+CARDIAC                         69
+PAIN ANALGESICS                 38
+ANTI DIABETIC                   25
+ANTI NEOPLASTICS                17
+NEURO CNS                       16
+UROLOGY                         14
+VITAMINS MINERALS NUTRIENTS     13
+GYNAECOLOGICAL                  12
+BLOOD RELATED                   11
+OPHTHAL                          9
+SEX STIMULANTS REJUVENATORS      6
+HORMONES                         5
+ANTI MALARIALS                   4
+DERMA                            3
+VACCINES                         2
+OTHERS                           2
+
+Primeros 10 elementos:
+ node_id                                   nombre             label                                         Action_class
+       2                         ascoril ls syrup       RESPIRATORY                                                  NaN
+      10                        aciloc 150 tablet GASTRO INTESTINAL                                  H2 Receptor Blocker
+      14                         ambrodil-s syrup       RESPIRATORY                                                  NaN
+      22                      altraday capsule sr   PAIN ANALGESICS                                                  NaN
+      24                  ascoril ls junior syrup       RESPIRATORY                                                  NaN
+      28                      aciloc rd 20 tablet GASTRO INTESTINAL                                                  NaN
+      48                amoxycillin 500mg capsule   ANTI INFECTIVES Cell wall active agent -Extended spectrum Penicillin
+      49         asthakind expectorant sugar free       RESPIRATORY                                                  NaN
+      58 asthakind-ls expectorant cola sugar free       RESPIRATORY                                                  NaN
+      59                         ascoril ls drops       RESPIRATORY                                                  NaN
+
+--------------------------------------------------
+
+--- Cluster 10 ---
+Total de elementos: 858
+Clases terapéuticas únicas (21): ['RESPIRATORY', 'DERMA', 'GASTRO INTESTINAL', 'NEURO CNS', 'BLOOD RELATED', 'VITAMINS MINERALS NUTRIENTS', 'PAIN ANALGESICS', 'CARDIAC', 'VACCINES', 'OPHTHAL', 'SEX STIMULANTS REJUVENATORS', 'ANTI DIABETIC', 'OPHTHAL OTOLOGICALS', 'OTHERS', 'STOMATOLOGICALS', 'UROLOGY', 'GYNAECOLOGICAL', 'OTOLOGICALS', 'HORMONES', 'ANTI INFECTIVES', 'ANTI NEOPLASTICS']
+
+Frecuencia de clases terapéuticas:
+label
+RESPIRATORY                    123
+OPHTHAL                        123
+VITAMINS MINERALS NUTRIENTS    107
+NEURO CNS                       98
+CARDIAC                         82
+DERMA                           81
+PAIN ANALGESICS                 41
+GASTRO INTESTINAL               34
+HORMONES                        27
+ANTI INFECTIVES                 26
+BLOOD RELATED                   20
+GYNAECOLOGICAL                  18
+SEX STIMULANTS REJUVENATORS     17
+UROLOGY                         17
+OPHTHAL OTOLOGICALS             11
+OTOLOGICALS                     10
+OTHERS                           6
+ANTI NEOPLASTICS                 5
+VACCINES                         4
+ANTI DIABETIC                    4
+STOMATOLOGICALS                  3
+
+Primeros 10 elementos:
+ node_id              nombre             label                          Action_class
+       4      avil 25 tablet       RESPIRATORY H1 Antihistaminics (First Generation)
+       8  atarax 25mg tablet       RESPIRATORY H1 Antihistaminics (First Generation)
+      12       anovate cream             DERMA                                   NaN
+      16      avomine tablet GASTRO INTESTINAL H1 Antihistaminics (First Generation)
+      21  alprax 0.25 tablet         NEURO CNS                       Benzodiazepines
+      23   ativan 2mg tablet       RESPIRATORY                       Benzodiazepines
+      27  atarax 10mg tablet       RESPIRATORY H1 Antihistaminics (First Generation)
+      33  axcer  90mg tablet     BLOOD RELATED       P2Y12 inhibitors (ADP receptor)
+      34   ativan 1mg tablet       RESPIRATORY                       Benzodiazepines
+      38 alprax 0.5mg tablet         NEURO CNS                       Benzodiazepines
+
+--------------------------------------------------
+
+--- Cluster 11 ---
+Total de elementos: 68
+Clases terapéuticas únicas (1): ['CARDIAC']
+
+Frecuencia de clases terapéuticas:
+label
+CARDIAC    68
+
+Primeros 10 elementos:
+ node_id              nombre   label                                     Action_class
+      64   amlokind 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+      65       amlong tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+      94      amlip 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     130    amlovas 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     152    amlodac 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     219      amtas 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     243   amlopres 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     256   amlong 2.5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     265   amlosafe 5 tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+     267 amlogard 5mg tablet CARDIAC Calcium channel blockers- Dihydropyridines (DHP)
+
+--------------------------------------------------
